@@ -4,6 +4,35 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## STEPS TO RUN THE PROJECT :
+
+The files are uploaded on GITHUB - https://github.com/Keshavvats9470/Movies-Search  
+
+You can download the zip file through the github website itself or can take a pull from github desktop as the folder is public.
+
+After taking the pull or downloading the file - 
+Open Terminal - Either the IDE or System.
+Go to the root folder of the project
+npm install - This will install the node modules folder which contains the packages.
+npm run - This will run the project on the user's local system.
+
+# Website Link Hosted on Vercel also
+https://movie-info-wolkus-project.vercel.app/
+
+### ** Note → The hosted link provided will not be able to fetch the details of movies related to OMDB API. OMDB API - provides NON-SSL (HTTP) request but Vercel provides (HTTPS) , so VERCEL will not allow the unsecured API’s to allow the functionalities and restricts them. **So to see if the API is working, Kindly run it on a local device.
+
+# Functionalities
+Homepage - Click on Register
+Signup / Register Screen - Signup using your Email ID
+Login Screen - Login with the Email ID that you have registered with.
+Dashboard User - Search Screen / Scroll down for playlist.
+Search any movie of your choice
+Click on Add to Playlist
+Create your own playlist
+View your playlists - using the dropdown you can navigate between the playlists.
+Logout Button
+
+
 In the project directory, you can run:
 
 ### `npm start`
