@@ -5,20 +5,16 @@ Search your favorite movies and add them to your playlist.
 The files are uploaded on GITHUB. You can download the zip file through the
 github website itself or can take a pull from github desktop as the folder is public.
 After taking the pull or downloading the file -
-# 1) Open Terminal - Either the IDE or System.
-# 2) Go to the root folder of the project
-# 3) npm install - This will install the node modules folder which contains the
+ 1) Open Terminal - Either the IDE or System.
+ 2) Go to the root folder of the project
+ 3) npm install - This will install the node modules folder which contains the
 packages.
-# 4) npm run - This will run the project on the user's local system.
+ 4) npm run - This will run the project on the user's local system.
 
 Website Link Hosted on Vercel also
 https://movie-info-wolkus-project.vercel.app/
 
-# ** Note → The hosted link provided will not be able to fetch the details of movies
-# related to OMDB API. OMDB API - provides NON-SSL (HTTP) request but Vercel
-# provides (HTTPS) , so VERCEL will not allow the unsecured API’s to allow the
-# functionalities and restricts them. **So to see if the API is working, Kindly run it on a
-# local device.
+# ** Note → The hosted link provided will not be able to fetch the details of movies related to OMDB API. OMDB API - provides NON-SSL (HTTP) request but Vercel provides (HTTPS) , so VERCEL will not allow the unsecured API’s to allow the functionalities and restricts them. **So to see if the API is working, Kindly run it on a local device.
 
 # Functionalities
 1) Homepage - Click on Register
